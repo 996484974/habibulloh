@@ -1,0 +1,16 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-size:border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: inherit;
+    list-style: none;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+nav 
